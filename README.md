@@ -4,15 +4,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0129-sum-root-to-leaf-numbers) |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0074-search-a-2d-matrix/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
