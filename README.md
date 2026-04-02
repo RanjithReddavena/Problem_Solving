@@ -57,8 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0058-length-of-last-word/) | Easy |
+| [0205-isomorphic-strings](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0205-isomorphic-strings/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0205-isomorphic-strings/) | Easy |
 <!---LeetCode Topics End-->
