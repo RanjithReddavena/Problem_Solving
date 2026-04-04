@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0012-integer-to-roman/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0058-length-of-last-word/) | Easy |
 | [0205-isomorphic-strings](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0205-isomorphic-strings/) | Easy |
@@ -65,5 +66,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0012-integer-to-roman/) | Medium |
 | [0205-isomorphic-strings](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0205-isomorphic-strings/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0012-integer-to-roman](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0012-integer-to-roman/) | Medium |
 <!---LeetCode Topics End-->
