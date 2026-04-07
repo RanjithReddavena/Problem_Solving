@@ -71,5 +71,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0012-integer-to-roman/) | Medium |
 <!---LeetCode Topics End-->
