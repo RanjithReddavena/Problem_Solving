@@ -6,14 +6,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0100-same-tree/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0100-same-tree/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0100-same-tree/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Array
 | Problem Name | Difficulty |
@@ -74,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0012-integer-to-roman/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
