@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0012-integer-to-roman/) | Medium |
+| [1446-angle-between-hands-of-a-clock](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1446-angle-between-hands-of-a-clock) |
 ## Breadth-First Search
 |  |
 | ------- |
