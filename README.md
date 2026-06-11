@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Simulation
 |  |
@@ -87,4 +89,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0100-same-tree/) | Easy |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
