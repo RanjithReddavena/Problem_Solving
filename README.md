@@ -29,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0724-find-pivot-index/) | Easy |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Matrix
 |  |
 | ------- |
