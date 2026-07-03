@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0012-integer-to-roman/) | Medium |
 | [0189-rotate-array](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0231-power-of-two) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1446-angle-between-hands-of-a-clock) |
 ## Breadth-First Search
 |  |
@@ -123,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0328-odd-even-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
