@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0907-koko-eating-bananas](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
