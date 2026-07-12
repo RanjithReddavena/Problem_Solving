@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0234-palindrome-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0328-odd-even-linked-list) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0496-next-greater-element-i) |
+| [2236-maximum-twin-sum-of-a-linked-list](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
