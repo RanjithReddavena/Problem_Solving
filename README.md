@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0231-power-of-two) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1446-angle-between-hands-of-a-clock) |
+| [2083-three-divisors](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2083-three-divisors) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -190,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0155-min-stack) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2083-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
