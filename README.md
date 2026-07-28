@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0006-zigzag-conversion/) | Medium |
 | [0012-integer-to-roman](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0012-integer-to-roman/) | Medium |
+| [0020-valid-parentheses](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0058-length-of-last-word/) | Easy |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0496-next-greater-element-i) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
