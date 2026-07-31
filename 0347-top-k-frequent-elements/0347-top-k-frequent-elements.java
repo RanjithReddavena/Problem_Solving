@@ -16,6 +16,7 @@ class Solution {
           int[] ans=new int[k];
           int idx=0;
           for(int i=b.length-1;i>=0&&idx<k;i--){
+            //System.out.print(b[i]+" ");
             if(b[i]!=null){
                 for(int n:b[i]){
                     ans[idx++]=n;
