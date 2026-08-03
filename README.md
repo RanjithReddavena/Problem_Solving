@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0724-find-pivot-index/) | Easy |
 | [0907-koko-eating-bananas](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0907-koko-eating-bananas) |
@@ -180,12 +181,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0234-palindrome-linked-list) |
 | [0385-mini-parser](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0385-mini-parser) |
 | [0496-next-greater-element-i](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0503-next-greater-element-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1078-remove-outermost-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0503-next-greater-element-ii) |
 ## Combinatorics
 |  |
 | ------- |
