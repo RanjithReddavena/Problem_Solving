@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0006-zigzag-conversion/) | Medium |
 | [0012-integer-to-roman](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0020-valid-parentheses) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0012-integer-to-roman/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0205-isomorphic-strings/) | Easy |
@@ -227,5 +229,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
