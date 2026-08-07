@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0724-find-pivot-index/) | Easy |
 | [0907-koko-eating-bananas](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0907-koko-eating-bananas) |
+| [1036-rotting-oranges](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Search
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [1036-rotting-oranges](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1036-rotting-oranges) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0100-same-tree/) | Easy |
+| [1036-rotting-oranges](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1036-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2121-find-if-path-exists-in-graph) |
 ## Sorting
 |  |
