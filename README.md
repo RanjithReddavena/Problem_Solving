@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0100-same-tree/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0200-number-of-islands) |
 | [0385-mini-parser](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0385-mini-parser) |
 | [2121-find-if-path-exists-in-graph](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0085-maximal-rectangle) |
 | [0189-rotate-array](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0085-maximal-rectangle](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1036-rotting-oranges](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1036-rotting-oranges) |
 ## Divide and Conquer
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0100-same-tree/) | Easy |
+| [0200-number-of-islands](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1036-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2121-find-if-path-exists-in-graph) |
 ## Sorting
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0200-number-of-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
