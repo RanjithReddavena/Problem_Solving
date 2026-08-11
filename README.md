@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0058-length-of-last-word/) | Easy |
 | [0205-isomorphic-strings](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0205-isomorphic-strings/) | Easy |
+| [0224-basic-calculator](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0227-basic-calculator-ii) |
 | [0385-mini-parser](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0385-mini-parser) |
 | [1078-remove-outermost-parentheses](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1078-remove-outermost-parentheses) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0231-power-of-two) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1446-angle-between-hands-of-a-clock) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0234-palindrome-linked-list) |
 ## Stack
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0234-palindrome-linked-list) |
 | [0385-mini-parser](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0385-mini-parser) |
