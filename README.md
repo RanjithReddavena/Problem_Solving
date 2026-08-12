@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0385-mini-parser) |
 | [1078-remove-outermost-parentheses](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1250-longest-common-subsequence) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## String Matching
 |  |
 | ------- |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0234-palindrome-linked-list) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Stack
 |  |
 | ------- |
