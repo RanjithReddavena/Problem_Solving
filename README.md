@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0342-power-of-four) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1446-angle-between-hands-of-a-clock) |
 | [2083-three-divisors](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2083-three-divisors) |
 ## Breadth-First Search
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0342-power-of-four) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Stack
 |  |
