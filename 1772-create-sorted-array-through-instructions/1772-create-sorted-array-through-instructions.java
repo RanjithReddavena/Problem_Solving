@@ -6,7 +6,6 @@ class Solution {
             long c1=obj.rangeQuery(0,x-1);
             long c2=obj.rangeQuery(x+1,max);
             ans=ans+Math.min(c1,c2);
-            System.out.println(Math.min(c1,c2));
             ans=ans%1000000007;
             obj.freq(x);
         }
