@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1772-create-sorted-array-through-instructions](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1772-create-sorted-array-through-instructions) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1772-create-sorted-array-through-instructions](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1772-create-sorted-array-through-instructions) |
 ## Matrix
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
+| [1772-create-sorted-array-through-instructions](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1772-create-sorted-array-through-instructions) |
 ## Simulation
 |  |
 | ------- |
@@ -296,4 +299,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0207-course-schedule) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1772-create-sorted-array-through-instructions](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1772-create-sorted-array-through-instructions) |
+## Segment Tree
+|  |
+| ------- |
+| [1772-create-sorted-array-through-instructions](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1772-create-sorted-array-through-instructions) |
+## Merge Sort
+|  |
+| ------- |
+| [1772-create-sorted-array-through-instructions](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1772-create-sorted-array-through-instructions) |
+## Ordered Set
+|  |
+| ------- |
+| [1772-create-sorted-array-through-instructions](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1772-create-sorted-array-through-instructions) |
 <!---LeetCode Topics End-->
