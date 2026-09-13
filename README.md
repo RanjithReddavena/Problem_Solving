@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0207-course-schedule) |
 | [0385-mini-parser](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0385-mini-parser) |
+| [0547-number-of-provinces](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1036-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2121-find-if-path-exists-in-graph) |
@@ -257,12 +259,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0207-course-schedule) |
+| [0547-number-of-provinces](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2121-find-if-path-exists-in-graph) |
 ## Design
 |  |
