@@ -12,11 +12,11 @@ class Solution {
     }
     void dfs(int[][] mat,int r){
         mat[r][r]=0;
-        for(int c=0;c<mat.length;c++){
-            if(mat[r][c]==1){
-                mat[r][c]=0;
-                mat[c][r]=0;
-                dfs(mat,c);
+        for(int i=0;i<mat.length;i++){
+            if(mat[r][i]==1){
+                mat[r][i]=0;
+                mat[i][r]=0;
+                dfs(mat,i);
             }
         }
     }
