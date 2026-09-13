@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0724-find-pivot-index/) | Easy |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0542-01-matrix](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1036-rotting-oranges) |
 ## Divide and Conquer
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1036-rotting-oranges) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0085-maximal-rectangle) |
 | [0300-longest-increasing-subsequence](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0300-longest-increasing-subsequence) |
+| [0542-01-matrix](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0542-01-matrix) |
 | [1250-longest-common-subsequence](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
 |  |
