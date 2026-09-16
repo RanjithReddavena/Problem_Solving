@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0012-integer-to-roman/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0160-intersection-of-two-linked-lists) |
