@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/RanjithReddavena/Problem_Solving/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0342-power-of-four) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1446-angle-between-hands-of-a-clock) |
 | [2083-three-divisors](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2083-three-divisors) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2083-three-divisors) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -361,12 +364,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
-## BellmanÃÂ¢ÃÂÃÂFord Algorithm
+## BellmanÃÂÃÂ¢ÃÂÃÂÃÂÃÂFord Algorithm
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
-## FloydÃÂ¢ÃÂÃÂWarshall Algorithm
+## FloydÃÂÃÂ¢ÃÂÃÂÃÂÃÂWarshall Algorithm
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Prime Factorization
+|  |
+| ------- |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Primality Test
+|  |
+| ------- |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Sieve Theory
+|  |
+| ------- |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 <!---LeetCode Topics End-->
