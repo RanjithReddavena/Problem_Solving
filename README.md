@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0200-number-of-islands) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0542-01-matrix](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0542-01-matrix) |
 | [1250-longest-common-subsequence](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1250-longest-common-subsequence) |
@@ -357,11 +359,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
-## BellmanâFord Algorithm
+## BellmanÃ¢ÂÂFord Algorithm
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
-## FloydâWarshall Algorithm
+## FloydÃ¢ÂÂWarshall Algorithm
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
