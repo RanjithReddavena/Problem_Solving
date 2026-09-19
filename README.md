@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1772-create-sorted-array-through-instructions](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1772-create-sorted-array-through-instructions) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/RanjithReddavena/Problem_Solving/tree/master/0560-subarray-sum-equals-k) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Math
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-angle-between-hands-of-a-clock](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1446-angle-between-hands-of-a-clock) |
 | [2083-three-divisors](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2083-three-divisors) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2083-three-divisors](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2083-three-divisors) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -364,11 +368,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
-## BellmanÃÂÃÂ¢ÃÂÃÂÃÂÃÂFord Algorithm
+## BellmanÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂFord Algorithm
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
-## FloydÃÂÃÂ¢ÃÂÃÂÃÂÃÂWarshall Algorithm
+## FloydÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂWarshall Algorithm
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RanjithReddavena/Problem_Solving/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -376,16 +380,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Primality Test
 |  |
 | ------- |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Sieve Theory
 |  |
 | ------- |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/RanjithReddavena/Problem_Solving/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
