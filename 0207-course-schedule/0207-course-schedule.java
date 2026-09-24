@@ -1,50 +1,28 @@
-import java.util.*;
-
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-
-        // graph[i] = courses that depend on course i
-        List<List<Integer>> graph = new ArrayList<>();
-
-        for (int i = 0; i < numCourses; i++) {
+        List<List<Integer>> graph=new ArrayList<>();
+        for(int i=0;i<numCourses;i++){
             graph.add(new ArrayList<>());
         }
-
-        // indegree[i] = number of prerequisites for course i
-        int[] indegree = new int[numCourses];
-
-        for (int[] prerequisite : prerequisites) {
-            int course = prerequisite[0];
-            int prereq = prerequisite[1];
-
-            graph.get(prereq).add(course);
-            indegree[course]++;
+        int d[]=new int[numCourses];
+        for(int x[]:prerequisites){
+            int c=x[0],p=x[1];
+            graph.get(p).add(c);
+            d[c]++;
         }
-
-        // Courses with no prerequisites
-        Queue<Integer> queue = new LinkedList<>();
-
-        for (int i = 0; i < numCourses; i++) {
-            if (indegree[i] == 0) {
-                queue.offer(i);
-            }
+        Queue<Integer> q=new LinkedList<>();
+        for(int i=0;i<numCourses;i++){
+            if(d[i]==0) q.offer(i);
         }
-
-        int completed = 0;
-
-        while (!queue.isEmpty()) {
-            int course = queue.poll();
+        int completed=0;
+        while(!q.isEmpty()){
+            int current=q.poll();
             completed++;
-
-            for (int nextCourse : graph.get(course)) {
-                indegree[nextCourse]--;
-
-                if (indegree[nextCourse] == 0) {
-                    queue.offer(nextCourse);
-                }
+            for(int x:graph.get(current)){
+                d[x]--;
+                if(d[x]==0) q.offer(x);
             }
         }
-
-        return completed == numCourses;
+        return completed==numCourses;
     }
 }
